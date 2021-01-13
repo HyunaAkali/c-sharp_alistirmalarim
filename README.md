@@ -1,0 +1,1 @@
+C# öğrenirken yapmış olduğum bir alıştırma
